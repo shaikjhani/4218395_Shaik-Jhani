@@ -202,7 +202,7 @@ int main() {
 
 &nbsp;   fclose(fp);
 
-&nbsp;   return 0;
+&nbsp;   return 4;
 
 }
 
