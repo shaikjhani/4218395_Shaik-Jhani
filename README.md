@@ -5,7 +5,7 @@
 [GIT simplilearn certificate.pdf](https://github.com/user-attachments/files/21469783/GIT.simplilearn.certificate.pdf
 
 
-
+<img width="1754" height="1238" alt="Image" src="https://github.com/user-attachments/assets/51fb547a-b501-45a2-b5da-7f93dd22bec6" />
 
 
 <img width="1754" height="1238" alt="Image" src="https://github.com/user-attachments/assets/c06d6319-146e-4d53-80b3-6ceaaad7900f" />
