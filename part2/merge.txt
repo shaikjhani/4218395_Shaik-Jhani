@@ -3,7 +3,7 @@ Line 2 modified in the main
 Line 3 this 2 lined are add before branchA creation
 Line 4 this 2 lined are add before branchA creation
 Line 5
-Line 6
+Line 6 this for stash 
 Line 7
 Line 8
 Line 9
