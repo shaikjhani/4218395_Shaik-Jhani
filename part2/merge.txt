@@ -2,9 +2,9 @@ Line 1 Modified in the main
 Line 2 modified in the main 
 Line 3 this 2 lined are add before branchA creation
 Line 4 this 2 lined are add before branchA creation
-Line 5
-Line 6
 Line 7 this in added in BranchB after creating a branchB
 Line 8 same as line 7
+Line 5 this line is modified in branch A after its creation
+Line 6 this is same as line 5
 Line 9
 Line 10
