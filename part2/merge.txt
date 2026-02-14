@@ -4,7 +4,7 @@ Line 3 this 2 lined are add before branchA creation
 Line 4 this 2 lined are add before branchA creation
 Line 5
 Line 6
-Line 7
-Line 8
+Line 7 this in added in BranchB after creating a branchB
+Line 8 same as line 7
 Line 9
 Line 10
